@@ -126,6 +126,7 @@ body{
 }
 .messagerow1{
     margin: -40px ;
+    text-shadow: none;
 }
 ::-webkit-scrollbar-track{
     background:#fd3018 ;
