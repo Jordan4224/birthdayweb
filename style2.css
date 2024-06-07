@@ -124,6 +124,6 @@ body{
     box-sizing: border-box;
     
 }
-/*
-- 
-*/
+.message{
+    margin: -50px ;
+}
